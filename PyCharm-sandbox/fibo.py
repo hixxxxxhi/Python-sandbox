@@ -9,7 +9,7 @@ def fib(n):
     print()
 
 
-def fib2():
+def fib2(n):
     result = []
     a, b = 0, 1
     while b < n:
