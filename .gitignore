@@ -1,2 +1,5 @@
 # PyCharm-sandbox/.idea フォルダを除外
 PyCharm-sandbox/.idea
+
+# notebooks/.ipynb_checkpoints フォルダを除外
+notebooks/.ipynb_checkpoints
